@@ -9,6 +9,10 @@ int subtraction(int a,int b)
   int t=a-b;
   return t;
 }
+int add(int a,int b)
+{
+       return a+b;
+}
 int main()
 {
        int a,b;
@@ -18,4 +22,5 @@ int main()
        printf("%.2f/%.2f=%.2f\n",a,b,chufa(a,b));
        return 0;
 }
+
 
