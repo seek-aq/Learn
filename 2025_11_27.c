@@ -17,7 +17,9 @@ int subtraction(int a,int b)
 }
 int add(int a,int b)
 {
-       return a+b;
+	int t;
+	t=a+b;
+       return t;
 >>>>>>> 12a251f96b9172ecdd9d60c99e30e5846f0e4122
 }
 int main()
