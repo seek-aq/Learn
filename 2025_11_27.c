@@ -1,5 +1,6 @@
 #include<stdio.h>
-double chufa(double a,double b){
+double chufa(double a,double b)
+{
        return a/b;
 }
 int subtraction(int a,int b)
@@ -15,4 +16,5 @@ int main()
        printf("%d-%d=%d",a,b,subtraction(a,b));
        return 0;
 }
+
 
