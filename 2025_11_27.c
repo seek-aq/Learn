@@ -28,11 +28,4 @@ int main()
        printf("%d*%d=%d\n",a,b,multiply(a,b));
        return 0;
 }
-
 //qstttt的二次提交
-
-
-
-
-
-
